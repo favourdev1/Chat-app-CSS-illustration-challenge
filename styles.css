@@ -16,4 +16,11 @@
     --Light-Grayish-Violet: hsl(270, 20%, 96%);
     --Dark-Desaturated-Violet: hsl(271, 36%, 24%);
     --Light-Magent: hsl(289, 100%, 72%);
+    /* font size */
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: rubik;
+    src: url(https://fonts.google.com/specimen/Rubik);
 }
